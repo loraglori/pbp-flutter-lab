@@ -10,7 +10,7 @@ void main() {
   runApp(ChangeNotifierProvider(
     create: (context) => BudgetModel(),
     child: const MyApp(),
-    ));
+  ));
 }
 
 class MyApp extends StatelessWidget {
