@@ -1,6 +1,7 @@
 import 'package:counter_7/main.dart';
 import 'package:counter_7/data_budget.dart';
 import 'package:counter_7/model.dart';
+import 'package:counter_7/page/mywatchlist_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -81,6 +82,16 @@ class _MyTambahBudgetPage extends State<MyTambahBudgetPage> {
                 );
               },
             ),
+            ListTile(
+              title: const Text('My Watch List'),
+              onTap: () {
+                  // Route menu ke halaman to do
+                  Navigator.pushReplacement(
+                  context,
+                  MaterialPageRoute(builder: (context) => const ToDoPage()),
+                  );
+              },
+              ),
           ],
         ),
       ),

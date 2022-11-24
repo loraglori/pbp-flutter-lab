@@ -1,0 +1,102 @@
+[
+      {
+          "pk": 1,
+              "watched": true,
+              "title": "Mencuri Raden Saleh",
+              "rating": 8.2,
+              "release_date": "August 25, 2022",
+              "review": "A group plans to steal a priceless historical painting 'The Arrest of Prince Diponegoro' by Raden Saleh from the Presidential Palace."
+          
+      },
+  
+      {
+          "pk": 2,
+              "watched": false,
+              "title": "Noktah Merah Perkawinan",
+              "rating": 8.8,
+              "release_date": "September 15, 2022",
+              "review": "The relationship between Ambar and Gilang begins to enter a period of disappointment after a big fight due to the interference of both parents in their domestic affair."
+          
+      },
+  
+      {
+          "pk": 3,
+              "watched":true,
+              "title":"Top Gun: Maverick",
+              "rating":8.4,
+              "release_date":"May 27, 2022",
+              "review":"After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it."
+          
+      },
+  
+      {
+          "pk":4,
+              "watched":true,
+              "title":"Pinocchio",
+              "rating":8,
+              "release_date":"September 8, 2022",
+              "review":"A puppet is brought to life by a fairy, who assigns him to lead a virtuous life in order to become a real boy."
+          
+      },
+  
+      {
+          "pk":5,
+              "watched":false,
+              "title":"Nope",
+              "rating":7,
+              "release_date":"August 17, 2022",
+              "review":"The residents of a lonely gulch in inland California bear witness to an uncanny and chilling discovery."
+          
+      },
+  
+      {
+          "pk":6,
+              "watched":true,
+              "title":"Me Time",
+              "rating":5,
+              "release_date":"August 26, 2022",
+              "review":"Follows a dad who finds time for himself for the first time in years while his wife and kids are away. He reconnects with a friend for a wild weekend."
+          
+      },
+  
+      {
+          "pk":7,
+              "watched":false,
+              "title":"The Invitation",
+              "rating":5.2,
+              "release_date":"August 26, 2022",
+              "review":"A young woman is courted and swept off her feet, only to realize a gothic conspiracy is afoot."
+          
+      },
+  
+      {
+          "pk":8,
+              "watched":false,
+              "title":"Beast",
+              "rating":5.6,
+              "release_date":"August 19, 2022",
+              "review":"A father and his two teenage daughters find themselves hunted by a massive rogue lion intent on proving that the Savanna has but one apex predator."
+          
+      },
+  
+      {
+          "pk":9,
+              "watched":true,
+              "title":"Orphan: First Kill",
+              "rating":6,
+              "release_date":"August 19, 2022",
+              "review":"After orchestrating a brilliant escape from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family."
+          
+      },
+  
+      {
+          "pk":10,
+              "watched":true,
+              "title":"Fall",
+              "rating":8.4,
+              "release_date":"August 12, 2022",
+              "review":"Best friends Becky and Hunter find themselves at the top of a 2,000-foot radio tower."
+          
+      }
+  
+  ]
